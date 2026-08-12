@@ -1,0 +1,25 @@
+# NAME: NBA
+# AUTHOR: allg00dman
+# DESCRIPTION: NBA / League Pass for Quantumult X
+
+# NBA Main
+HOST-SUFFIX,nba.com
+HOST-SUFFIX,nba.net
+HOST-SUFFIX,nba.tv
+HOST-SUFFIX,nbaassets.com
+HOST-SUFFIX,nbaimg.com
+HOST-SUFFIX,nbaapi.com
+HOST-SUFFIX,nba.com.cn
+HOST-SUFFIX,nba.net.cn
+
+# NBA CDN / Media
+HOST,lpnba.akamaized.net
+HOST-SUFFIX,cdnbasket.net
+
+# NBA Account / Subscription
+HOST-SUFFIX,evergent.com
+HOST-SUFFIX,opin.media
+
+# NBA Video / Streaming
+HOST-KEYWORD,leaguepass
+HOST-KEYWORD,nba
