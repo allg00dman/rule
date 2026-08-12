@@ -1,0 +1,30 @@
+# NAME: SiriAI
+# AUTHOR: allg00dman
+# DESCRIPTION: Apple Intelligence / Siri / Relay
+
+# Siri / Apple Intelligence
+HOST,guzzoni.apple.com
+HOST-SUFFIX,smoot.apple.com
+HOST-KEYWORD,siri
+
+# Apple Relay and Mask infrastructure
+HOST,mask-api.fe.apple-dns.net
+HOST,mask-api.icloud.com
+HOST,mask-t.apple-dns.net
+HOST,mask.apple-dns.net
+
+HOST-SUFFIX,apple-relay.akamaized.net
+HOST-SUFFIX,apple-relay.apple.com
+HOST-SUFFIX,apple-relay.cloudflare.com
+HOST-SUFFIX,apple-relay.fastly-edge.com
+HOST-SUFFIX,apple-relay.mask.apple-dns.net
+
+HOST-SUFFIX,cp4.cloudflare.com
+HOST-SUFFIX,mask-h2.icloud.com
+HOST-SUFFIX,mask.icloud.com
+
+# Apple Search / supporting services
+HOST-SUFFIX,gspe1-ssl.ls.apple.com
+HOST-SUFFIX,gateway.icloud.com
+HOST-SUFFIX,ls.apple.com
+HOST-SUFFIX,apps.mzstatic.com
