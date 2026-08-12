@@ -3,28 +3,28 @@
 # DESCRIPTION: Apple Intelligence / Siri / Relay
 
 # Siri / Apple Intelligence
-HOST,guzzoni.apple.com
-HOST-SUFFIX,smoot.apple.com
-HOST-KEYWORD,siri
+HOST,guzzoni.apple.com,SiriAI
+HOST-SUFFIX,smoot.apple.com,SiriAI
+HOST-KEYWORD,siri,SiriAI
 
 # Apple Relay and Mask infrastructure
-HOST,mask-api.fe.apple-dns.net
-HOST,mask-api.icloud.com
-HOST,mask-t.apple-dns.net
-HOST,mask.apple-dns.net
+HOST,mask-api.fe.apple-dns.net,SiriAI
+HOST,mask-api.icloud.com,SiriAI
+HOST,mask-t.apple-dns.net,SiriAI
+HOST,mask.apple-dns.net,SiriAI
 
-HOST-SUFFIX,apple-relay.akamaized.net
-HOST-SUFFIX,apple-relay.apple.com
-HOST-SUFFIX,apple-relay.cloudflare.com
-HOST-SUFFIX,apple-relay.fastly-edge.com
-HOST-SUFFIX,apple-relay.mask.apple-dns.net
+HOST-SUFFIX,apple-relay.akamaized.net,SiriAI
+HOST-SUFFIX,apple-relay.apple.com,SiriAI
+HOST-SUFFIX,apple-relay.cloudflare.com,SiriAI
+HOST-SUFFIX,apple-relay.fastly-edge.com,SiriAI
+HOST-SUFFIX,apple-relay.mask.apple-dns.net,SiriAI
 
-HOST-SUFFIX,cp4.cloudflare.com
-HOST-SUFFIX,mask-h2.icloud.com
-HOST-SUFFIX,mask.icloud.com
+HOST-SUFFIX,cp4.cloudflare.com,SiriAI
+HOST-SUFFIX,mask-h2.icloud.com,SiriAI
+HOST-SUFFIX,mask.icloud.com,SiriAI
 
 # Apple Search / supporting services
-HOST-SUFFIX,gspe1-ssl.ls.apple.com
-HOST-SUFFIX,gateway.icloud.com
-HOST-SUFFIX,ls.apple.com
-HOST-SUFFIX,apps.mzstatic.com
+HOST-SUFFIX,gspe1-ssl.ls.apple.com,SiriAI
+HOST-SUFFIX,gateway.icloud.com,SiriAI
+HOST-SUFFIX,ls.apple.com,SiriAI
+HOST-SUFFIX,apps.mzstatic.com,SiriAI
